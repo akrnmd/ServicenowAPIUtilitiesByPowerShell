@@ -1,3 +1,4 @@
+# https://arm-lab.blogspot.com/2021/03/powershellservicenowapi.html
 # Parameters
 # Example
 # $user = "admin"
