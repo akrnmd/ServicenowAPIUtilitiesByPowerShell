@@ -1,2 +1,2 @@
-# ServicenowUtilitiesByPowerShell
-ServiceNow Utilities By PowerShell Script.
+# ServicenowAPIUtilitiesByPowerShell
+ServiceNow API Utilities By PowerShell Script.
