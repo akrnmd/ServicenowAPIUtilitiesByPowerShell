@@ -1,3 +1,4 @@
+# https://arm-lab.blogspot.com/2021/03/powershellrest-apicsvservicenow.html
 # Params @ Local
 $XLSXFileName = "xxxx.xls/xlsx"
 $XLSXFilePath = "C:\"
