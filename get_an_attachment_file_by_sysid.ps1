@@ -1,3 +1,4 @@
+# https://arm-lab.blogspot.com/2021/03/servicenowpowershell.html
 # Parameters
 $user = "admin"
 $pass = "admin"
