@@ -31,7 +31,7 @@ $fullpathofoutfile = $baselocalpath + $outfilename
 $uri = "https://" + $instansname + ".service-now.com/" + $targettablename + "_list.do?XLS&sysparm_default_export_fields=all"
 
 # Specify HTTP method
-$method = "get"
+$method = "GET"
 
 # Send HTTP request
 Invoke-RestMethod -Headers $headers -Method $method -Uri $uri -OutFile $fullpathofoutfile
